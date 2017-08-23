@@ -33,7 +33,7 @@ Every time the ip changes Kriptal send to all users the new IP of the user
 
 -Compartir mi Kriptal a cualquier contacto
 	-abrir plugin.share y seleccionar por que medio enviar la PK
-	-El receptor tiene Kriptal instalado y abre autom·ticamente el link kriptal://aslfeq8g7288224(pk)+Juan%20Perez y agrega el contacto
+	-El receptor tiene Kriptal instalado y abre autom√°ticamente el link kriptal://aslfeq8g7288224(pk)+Juan%20Perez y agrega el contacto
 
 -Pedir a un contacto conectarse conmigo en Kriptal
 	Abre Kriptal y a travez de plugin share selecciona a quien enviar la PK
@@ -55,3 +55,8 @@ Every time the ip changes Kriptal send to all users the new IP of the user
 
 RSA
 https://github.com/onovotny/bc-csharp/blob/netstandard/crypto/test/src/openpgp/test/PGPRSATest.cs
+
+Utilizando actualmente:
+https://stackoverflow.com/questions/28086321/c-sharp-bouncycastle-rsa-encryption-with-public-private-keys
+https://stackoverflow.com/questions/22008337/generating-keypair-using-bouncy-castle
+
